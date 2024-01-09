@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e04aba4fca20b4f449f90533bc335af5, type: 3}
+  m_Name: CustomizableFeetSO 2
+  m_EditorClassIdentifier: 
+  Name: 
+  Description: 
+  CustomizationIcon: {fileID: 21300000, guid: a4674c87602525144b01c80bd396fad9, type: 3}
+  index: 2
+  UID: f85e453b1bcb90042b7847586aacc72d
