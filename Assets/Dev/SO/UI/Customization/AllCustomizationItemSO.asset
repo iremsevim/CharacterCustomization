@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e7efa45be803b545b9a0cca2bb41f8d, type: 3}
+  m_Name: AllCustomizationItemSO
+  m_EditorClassIdentifier: 
+  customizableBodySOs:
+  - {fileID: 11400000, guid: f2f1c42453a933c42a84ebd7fdf4c13d, type: 2}
+  - {fileID: 11400000, guid: bb7617d80e790b34caf4aef4f7487975, type: 2}
+  customizableFeetSOs:
+  - {fileID: 11400000, guid: 99fd7b78c3f9958488f766afa591c471, type: 2}
+  - {fileID: 11400000, guid: 52a965957e261de4595c84d0598a6d92, type: 2}
+  customizableHeadSOs:
+  - {fileID: 11400000, guid: fa888e8e20c0f1743a8790a69c0c43b5, type: 2}
+  - {fileID: 11400000, guid: 7e212f9050d907949aa6dd6b8e7941b0, type: 2}
+  customizableLegSOs:
+  - {fileID: 11400000, guid: abb1c4ef3086e584384934d2d8242290, type: 2}
+  - {fileID: 11400000, guid: c8d01bb01221e434fa8726c7d2f192d7, type: 2}
