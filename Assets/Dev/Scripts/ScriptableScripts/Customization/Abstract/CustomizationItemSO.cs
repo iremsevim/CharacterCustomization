@@ -11,8 +11,9 @@ public abstract class CustomizationItemSO : ScriptableObject
     public string Name;
     public string Description;
     public Sprite CustomizationIcon;
+    public int index;
 
-     public string UID;
+    public string UID;
 
 #if UNITY_EDITOR
     [PropertySpace(SpaceAfter = 10)]

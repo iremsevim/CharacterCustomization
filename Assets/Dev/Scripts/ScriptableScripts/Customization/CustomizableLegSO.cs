@@ -5,5 +5,5 @@ using UnityEngine;
 [CreateAssetMenu(fileName = nameof(CustomizableLegSO), menuName = "Game/Customization/" + nameof(CustomizableLegSO))]
 public class CustomizableLegSO : CustomizationItemSO
 {
-    public int index;
+   
 }

@@ -5,6 +5,5 @@ using UnityEngine;
 [CreateAssetMenu(fileName = nameof(CustomizableHeadSO), menuName = "Game/Customization/" + nameof(CustomizableHeadSO))]
 public class CustomizableHeadSO : CustomizationItemSO
 {
-    public int index;
-    
+  
 }

@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class CharacterCustomizationItem : MonoBehaviour
 {
-    public System.Action<CustomizationItemSO> OnClicked;
+    public static event System.Action<CustomizationItemSO> OnClicked;
     public Image CustomImage;
     private CustomizationItemSO CustomizationItemSO;
 
